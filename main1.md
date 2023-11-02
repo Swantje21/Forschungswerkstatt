@@ -94,7 +94,7 @@ Sahle, P. 2016. 2. What is a Scholarly Digital Edition? In: Driscoll, M. J., & P
 
 Was macht diese Edition zu einer *digitalen* Edition?
 
-![edition humboldt digital](https://latex-ninja.com/2022/02/02/a-shamelessly-short-intro-to-xml-for-dh-beginners-includes-tei/)
+![edition humboldt digital](https://edition-humboldt.de/)
 
 
 
