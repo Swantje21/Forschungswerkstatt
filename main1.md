@@ -29,9 +29,8 @@ Verwenden Sie eine Textgenerierungssoftware wie ChatGPT (oder GPT3, GPT4, AI21),
 Speichern Sie die Prompts, die Sie verwendet haben und diskutieren Sie die folgenden Fragen:
 
 1. Wie sind Prompts formuliert, die für Sie gut funktioniert haben?
-2. Funktioniert die Textgenerierung problemlos? Wo mussten Sie (in welchem Umfang nacharbeiten)?
-3. Kann Textgenerierungs-KI *einfach so* verwendet werden? Wo sehen Sie Probleme?
-4. Welche Fertigkeiten und Kompetenzen sind erforderlich, um Textgenerierungs-KI zu verwenden.
+2. Kann Textgenerierungs-KI *einfach so* verwendet werden? Wo sehen Sie Probleme?
+3. Welche Fertigkeiten und Kompetenzen sind erforderlich, um Textgenerierungs-KI zu verwenden.
 
 Sie haben für die Aufgabe 15 Minuten Zeit.
 
@@ -63,7 +62,6 @@ Sichtung der Überlieferung +
 * Grundlagenarbeit für die weitere Forschung;
 * Kritische Auseinandersetzung mit der Überlieferung;
 * Erarbeitung von wissenschaftlichen Informationsressourcen;
-* Stabilisierung, Kanonisierung, Referenzierbarkeit
 
 ### Digitale Editionen
 
