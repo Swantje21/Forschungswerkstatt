@@ -94,13 +94,13 @@ Sahle, P. 2016. 2. What is a Scholarly Digital Edition? In: Driscoll, M. J., & P
 
 Was macht diese Edition zu einer *digitalen* Edition?
 
-![edition humboldt digital](https://edition-humboldt.de/)
+[edition humboldt digital](https://edition-humboldt.de/)
 
 #### Beispiel: Kloster Königsfelden
 
 Was macht diese Edition zu einer *digitalen* Edition?
 
-![Urkunden des Klosters Königsfelden](https://www.koenigsfelden.uzh.ch/exist/apps/ssrq/index.html?refresh=yes&kanton=)
+[Urkunden des Klosters Königsfelden](https://www.koenigsfelden.uzh.ch/exist/apps/ssrq/index.html?refresh=yes&kanton=)
 
 
 
