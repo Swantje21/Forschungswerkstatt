@@ -17,7 +17,7 @@ narrator: UK English Female
 
 **Link zu OLAT:** https://lms.uni-kiel.de/auth/RepositoryEntry/5391450768/CourseNode/108574381911797
 
-* **Baillot, Anne/Schnöpf, Markus**: Von wissenschaftlichen Editionen als interoperablen Projekten, oder: Was können eigentlich digitale Editionen?, in: Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität, hrsg. von Wolfgang Schmale, Stuttgart 2015, S. 139-156.
+**Weiterführende Literatur: Baillot, Anne/Schnöpf, Markus**: Von wissenschaftlichen Editionen als interoperablen Projekten, oder: Was können eigentlich digitale Editionen?, in: Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität, hrsg. von Wolfgang Schmale, Stuttgart 2015, S. 139-156.
 
 #### Aufgabe
 
