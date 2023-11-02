@@ -96,5 +96,9 @@ Was macht diese Edition zu einer *digitalen* Edition?
 
 ![edition humboldt digital](https://edition-humboldt.de/)
 
+Was macht diese Edition zu einer *digitalen* Edition?
+
+![Urkunden des Klosters Königsfelden](https://www.koenigsfelden.uzh.ch/exist/apps/ssrq/index.html?refresh=yes&kanton=)
+
 
 
