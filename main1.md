@@ -17,7 +17,6 @@ narrator: UK English Female
 
 **Link zu OLAT:** https://lms.uni-kiel.de/auth/RepositoryEntry/5391450768/CourseNode/108574381911797
 
-**Weiterführende Literatur: Baillot, Anne/Schnöpf, Markus**: Von wissenschaftlichen Editionen als interoperablen Projekten, oder: Was können eigentlich digitale Editionen?, in: Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität, hrsg. von Wolfgang Schmale, Stuttgart 2015, S. 139-156.
 
 #### Aufgabe
 
@@ -89,6 +88,8 @@ Außerdem wir häufig angestrebt das *Single Source Principle* zu erfüllen, in 
 ---
 
 Sahle, P. 2016. 2. What is a Scholarly Digital Edition? In: Driscoll, M. J., & Pierazzo, E. (Eds.), Digital Scholarly Editing: Theories and Practices. Open Book Publishers. aus dem Werk: http://books.openedition.org/obp/3397
+
+**Weiterführende Literatur: Baillot, Anne/Schnöpf, Markus**: Von wissenschaftlichen Editionen als interoperablen Projekten, oder: Was können eigentlich digitale Editionen?, in: Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität, hrsg. von Wolfgang Schmale, Stuttgart 2015, S. 139-156.
 
 
 #### Beispiel: edition humboldt digital
