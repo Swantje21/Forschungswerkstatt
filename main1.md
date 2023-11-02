@@ -17,6 +17,22 @@ narrator: UK English Female
 
 **Link zu OLAT:** https://lms.uni-kiel.de/auth/RepositoryEntry/5391450768/CourseNode/108574381911797
 
+#### Aufgabe
+
+Bilden Sie Kleingruppen aus 3 bis 4 Teilnehmer:innen.
+
+Verwenden Sie eine Textgenerierungssoftware wie ChatGPT (oder GPT3, GPT4, AI21), um einen zwei Minuten-Vortrag über folgendes Thema vorzubereiten:
+
+> Sinn und Unsinn einer digitalen Edition 
+
+Speichern Sie die Prompts, die Sie verwendet haben und diskutieren Sie die folgenden Fragen:
+
+1. Wie sind Prompts formuliert, die für Sie gut funktioniert haben?
+2. Funktioniert die Textgenerierung problemlos? Wo mussten Sie (in welchem Umfang nacharbeiten)?
+3. Kann Textgenerierungs-KI *einfach so* verwendet werden? Wo sehen Sie Probleme?
+4. Welche Fertigkeiten und Kompetenzen sind erforderlich, um Textgenerierungs-KI zu verwenden.
+
+Sie haben für die Aufgabe 15 Minuten Zeit.
 
 ### Editionswissenschaft
 
@@ -79,20 +95,5 @@ Was macht diese Edition zu einer *digitalen* Edition?
 
 ![edition humboldt digital](https://latex-ninja.com/2022/02/02/a-shamelessly-short-intro-to-xml-for-dh-beginners-includes-tei/)
 
-#### Aufgabe
 
-Bilden Sie Kleingruppen aus 3 bis 4 Teilnehmer:innen.
-
-Verwenden Sie eine Textgenerierungssoftware wie ChatGPT (oder GPT3, GPT4, AI21), um einen zwei Minuten-Vortrag über folgendes Thema vorzubereiten:
-
-> Sinn und Unsinn einer digitalen Edition 
-
-Speichern Sie die Prompts, die Sie verwendet haben und diskutieren Sie die folgenden Fragen:
-
-1. Wie sind Prompts formuliert, die für Sie gut funktioniert haben?
-2. Funktioniert die Textgenerierung problemlos? Wo musstet ihr (in welchem Umfang nacharbeiten)?
-3. Kann Textgenerierungs-KI *einfach so* verwendet werden? Wo seht ihr Probleme?
-4. Welche Fertigkeiten und Kompetenzen sind erforderlich, um Textgenerierungs-KI zu verwenden.
-
-Sie haben für die Aufgabe 15 Minuten Zeit.
 
