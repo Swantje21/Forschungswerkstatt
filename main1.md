@@ -23,13 +23,16 @@ narrator: UK English Female
 
 > Die Digital Humanities können ganz allgemein als Einsatz von informatischen Methoden in der geisteswissenschaftlichen Forschung und Lehre verstanden werden.
 
+
+![Schnittstelle](DH_Schnittstelle.jpg)
+
 ### Was leisten die DH?
 
 Ausgehend von fachwissenschaftlichen Fragestellungen soll ein konkreter Gegenstand anhand von
 
-* informatischen, statistischen oder computerlinguistischen Methoden analysiert werden.
+> informatischen, statistischen oder computerlinguistischen Methoden analysiert werden.
 
-* Diese digitalen Werkzeuge und Methoden sollen den Gegenstand erfassen, beschreiben und ihn unter einer bestimmten Fragestellung auswerten.
+> Diese digitalen Werkzeuge und Methoden sollen den Gegenstand erfassen, beschreiben und ihn unter einer bestimmten Fragestellung auswerten.
 
 ### Arbeits- und Forschungsfelder der DH
 
