@@ -12,10 +12,37 @@ narrator: UK English Female
 
 **Dozierende:**
 
-* Dr. Swantje Piotrowski, M.A.
+* Dr. Swantje Piotrowski
 * Dr. Bianca Frohne
 
 **Link zu OLAT:** https://lms.uni-kiel.de/auth/RepositoryEntry/5391450768/CourseNode/108574381911797
+
+### Was sind eigentlich Digital Humanities?
+
+> Die Digital Humanities sind ein Forschungsgebiet an der Schnittfläche von Geisteswissenschaften und angewandter Informatik.
+
+> Die Digital Humanities können ganz allgemein als Einsatz von informatischen Methoden in der geisteswissenschaftlichen Forschung und Lehre verstanden werden.
+
+### Was leisten die DH?
+
+Ausgehend von fachwissenschaftlichen Fragestellungen soll ein konkreter Gegenstand anhand von
+
+> informatischen, statistischen oder computerlinguistischen Methoden analysiert werden.
+
+> Diese digitalen Werkzeuge und Methoden sollen den Gegenstand erfassen, beschreiben und ihn unter einer bestimmten Fragestellung auswerten.
+
+### Arbeits- und Forschungsfelder der DH
+
+> Digitale Editionen
+
+> Statistische Analyseverfahren (Big Data)
+
+> Quantitative Analyseverfahren (Distant Reading)
+
+> Netzwerkanalyse 
+
+> Visualisierungen (bspw. Kartenprojekte durch Georeferenzierung)
+
 
 
 #### Aufgabe
@@ -65,23 +92,13 @@ Sichtung der Überlieferung +
 
 ### Digitale Editionen
 
-> A digitised edition is not a digital edition. (Sahle 2016)
+> Digitale Editionen sind multimedial: Ein Text, der online steht, ist noch keine digitale Edition. Es geht nicht um das Speichermedium.
 
-Digitale Editionen sind multimedial: Ein Text, der online steht, ist noch keine digitale Edition. Es geht nicht um das Speichermedium.
+> Digitale Editionen haben eine erweiterte Funktionalität gegenüber einer gedruckten Editionen: Eine digitale Edition drucken bedeutet in der Regel Verlust von Funktion(en). Die zusätzlichen Funktionen resultiert aus der Durchsuch- und Filterbarkeit digitaler Medien, mehr noch aber durch die Verwendung von Hypertext und die Verknüpfung verschiedener Ressourcen.
 
-> A digital edition cannot be given in print without significant loss of content and functionality. (Sahle 2016)
+> Digitale Editionen sind nicht nur Text/Bild + Metadaten, wie bei einem digitalen Archiv: Digitale Editionen erfordern kritische Auseinandersetzung, wie auch andere Editionen. Die kritische Auseinandersetzung wird durch die umfangreiche Kontextualisierung digitaler Angebot befördert.
 
-Digitale Editionen haben eine erweiterte Funktionalität gegenüber einer gedruckten Editionen: Eine digitale Edition drucken bedeutet in der Regel Verlust von Funktion(en). Die zusätzlichen Funktionen resultiert aus der Durchsuch- und Filterbarkeit digitaler Medien, mehr noch aber durch die Verwendung von Hypertext und die Verknüpfung verschiedener Ressourcen.
-
-> A scholarly edition is the critical representation of historic documents. (Sahle 2016)
-
-Digitale Editionen sind nicht nur Text/Bild + Metadaten, wie bei einem digitalen Archiv: Digitale Editionen erfordern kritische Auseinandersetzung, wie auch andere Editionen. Die kritische Auseinandersetzung wird durch die umfangreiche Kontextualisierung digitaler Angebot befördert.
-
-> Scholarly digital editions are scholarly editions that are guided by a digital paradigm in their theory, method and practice. (Sahle 2016)
-
-Dig. Editionen sollten gewissen Qualitätsstandards entsprechen, bspw. in der Art und Weise der Präsentation der Daten, wie auch der verwendeten Methodiken (Beachtung von (Meta-)Datenstandards, Transkriptionsregeln, FDM); idealerweise sind die publizierten Daten FAIR (Findable, Accessible, Interoperable, Reusable).
-
-Außerdem wir häufig angestrebt das *Single Source Principle* zu erfüllen, in dem bspw. TEI XML oder ein ähnliches Standarddatenformat verwendet wird.
+> Dig. Editionen sollten gewissen Qualitätsstandards entsprechen, bspw. in der Art und Weise der Präsentation der Daten, wie auch der verwendeten Methodiken (Beachtung von (Meta-)Datenstandards, Transkriptionsregeln, FDM); idealerweise sind die publizierten Daten FAIR (Findable, Accessible, Interoperable, Reusable).
 
 ---
 
